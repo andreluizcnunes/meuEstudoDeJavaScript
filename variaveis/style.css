@@ -1,0 +1,32 @@
+/* RESET DE PAGINA */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, p {
+  margin: 0;
+}
+
+/* FIM RESET PAGINA */
+
+header {
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 0 0 2rem 2rem;
+  background: #525252;
+  color: aliceblue;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid aliceblue;
+}
+
+header p {
+  font-size: 2rem;
+}
